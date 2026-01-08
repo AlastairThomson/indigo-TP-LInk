@@ -12,7 +12,9 @@ dimmerModels = {
     "KL100", # lightbulb (if not dimmable, does it follow Relay properties and commands?)
     "KL110", # dimmable bulb
     "KL120", # tunable-white bulb
+    "KL125", # dimmable color bulb
     "KL130", # multicolor bulb
+    "KL135", # dimmable color bulb
     "KL430", # multicolor bulb
     "KL50(", # from Stan Krasnow
 }
